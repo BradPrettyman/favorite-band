@@ -2,23 +2,22 @@
   width: 300px;
   float: left;
 }
-
 img {
-
   float: left;
   width: 400px;
-  padding-right: 9%;
-  padding-bottom: 100%;
-  padding-top: 8%;
+  padding: 2%;
+  margin: 2%;
+  border: solid black;
+  box-sizing: border-box;
+  background-color: red;
 }
-
 .title {
   text-align: center;
 }
-
 .sidebar {
   float: right;
-  width: 300px;
-  padding-right: 9%;
-  background-color: chartreuse;
+  margin-right: 100px;
+  border: solid rgb(2, 2, 2);
+  padding: 4px;
+  background-color: Orange;
 }
