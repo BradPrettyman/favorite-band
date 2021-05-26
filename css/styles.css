@@ -1,0 +1,24 @@
+.column {
+  width: 300px;
+  float: left;
+}
+
+img {
+
+  float: left;
+  width: 400px;
+  padding-right: 9%;
+  padding-bottom: 100%;
+  padding-top: 8%;
+}
+
+.title {
+  text-align: center;
+}
+
+.sidebar {
+  float: right;
+  width: 300px;
+  padding-right: 9%;
+  background-color: chartreuse;
+}
